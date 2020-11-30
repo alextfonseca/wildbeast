@@ -4,7 +4,7 @@
 
 ## Link do curso
 
-Origamid (<https://www.linkedin.com/in/alex-teixeira-da-fonseca-5a99931a2/>)
+Origamid (<https://www.origamid.com/>)
 
 
 ![](img/header.PNG)
