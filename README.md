@@ -26,4 +26,4 @@ Não é preciso instalar nada, apenas baixar o repositório e abrir o arquivo HT
 ## Gostou ?
 
 1. Conecte-se ao meu Linkdin (<https://www.linkedin.com/in/alex-teixeira-da-fonseca-5a99931a2/>)
-2. Me seiga aqui no Git-hub 
+2. Me siga aqui no Git-hub 
