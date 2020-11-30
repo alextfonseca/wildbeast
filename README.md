@@ -1,10 +1,15 @@
 # WILDBEAST
-> Projeto wildbeast criado no curso de CSS grid-layout, com o foco de criar um site 100% responsivo.
+> Projeto wildbeast criado no curso de CSS grid-layout da Origamid, com o foco de criar um site 100% responsivo.
+
+
+## Link do curso
+
+Origamid (<https://www.linkedin.com/in/alex-teixeira-da-fonseca-5a99931a2/>)
 
 
 ![](img/header.PNG)
 
-## Como acessar
+## Como usar e ver o projeto
 
 OS X & Linux:
 
